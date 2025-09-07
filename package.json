@@ -10,6 +10,9 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  {
+  "homepage": "https://ProgrammerKR.github.io/slide-scribe-app/"
+},
   "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
